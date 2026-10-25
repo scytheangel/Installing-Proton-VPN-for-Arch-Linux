@@ -13,6 +13,8 @@ Tap on the button saying "Download for Linux" and scroll down and select Arch
 
 Copy any of the given commands, preferably the first, add "sudo" followed by pasteing the command command you just copied.
 
+<img width="1243" height="1071" alt="image" src="https://github.com/user-attachments/assets/160e89e2-08c1-46a9-9b08-c1a845b05f58" />
+
 The terminal will ask if you want to proceed with installation, press y to continue
 
 <img width="1068" height="742" alt="image" src="https://github.com/user-attachments/assets/4f86e74f-a5c7-4478-997e-7e1a4c39db8a" />
